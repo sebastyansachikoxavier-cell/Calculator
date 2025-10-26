@@ -10,10 +10,10 @@
     width: 100%;
     padding: 20px;
     color: black;               
-    font-size: 5rem;
+    font-size: 10rem;
     text-align: right;          
     border: none;
-    background-color: white;    
+    background-color: lightgray;    
 }
 
 #keys {
@@ -23,12 +23,12 @@
 }
 
 button {
-    width: 100%;                
-    height: 75px;
+    width: 250px;                
+    height: 250px;
     border-radius: 25px;
     border: none;
     color: black;
-    font-size: 2rem;            
+    font-size: 10rem;            
     font-weight: bold;
 }
 
